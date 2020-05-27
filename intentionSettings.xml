@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="PHP/Initialize properties" />
+  </component>
+</application>
