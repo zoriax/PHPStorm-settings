@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ffe2e2c0-c04b-4365-924e-e0fbf0d4d585" name="SRVCIADWS3-LAB" url="http://localhost">
+        <fileTransfer mountedRoot="W:\projets" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</application>
