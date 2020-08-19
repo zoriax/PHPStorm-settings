@@ -1,1 +1,8 @@
-<keymap version="1" name="Windows Proper Redo" parent="$default" />
+<keymap version="1" name="Windows Proper Redo" parent="$default">
+  <action id="Macro.ReformatAndSave">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
+</keymap>
