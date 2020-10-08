@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="ffe2e2c0-c04b-4365-924e-e0fbf0d4d585" name="SRVCIADWS3-LAB" url="http://localhost">
-        <fileTransfer mountedRoot="W:\projets\clients" accessType="MOUNT" port="0" />
+        <fileTransfer mountedRoot="W:\projets" accessType="MOUNT" port="0" />
       </webServer>
       <webServer id="91a867ed-3ff1-489c-a7e2-4046ac2aaac3" name="CIAD-INFOMANIAK" url="http://ftp.ciad.ch">
         <fileTransfer accessType="FTPS" host="ftp.ciad.ch" port="21">
