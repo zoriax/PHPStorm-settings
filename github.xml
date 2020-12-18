@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="016b5e22-9a3c-4e79-bed6-037535d5de94" name="zoriax">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
