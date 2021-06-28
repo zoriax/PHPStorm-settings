@@ -7,7 +7,7 @@
       <webServer id="91a867ed-3ff1-489c-a7e2-4046ac2aaac3" name="CIAD-INFOMANIAK" url="http://ftp.ciad.ch">
         <fileTransfer accessType="FTPS" host="ftp.ciad.ch" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
